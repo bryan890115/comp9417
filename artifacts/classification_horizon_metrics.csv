@@ -1,0 +1,65 @@
+horizon,variant,model,split,accuracy
+1,No anomalies,Persistence,val,0.871939736346516
+1,No anomalies,Persistence,test,0.921727395411606
+1,No anomalies,RandomForest,val,0.8691148775894538
+1,No anomalies,RandomForest,test,0.9316239316239316
+1,No anomalies,GradientBoosting,val,0.8295668549905838
+1,No anomalies,GradientBoosting,test,0.9109311740890689
+1,No anomalies,SVM,val,0.85969868173258
+1,No anomalies,SVM,test,0.9329734592892488
+1,With IF flags,Persistence,val,0.871939736346516
+1,With IF flags,Persistence,test,0.921727395411606
+1,With IF flags,RandomForest,val,0.8681732580037664
+1,With IF flags,RandomForest,test,0.9311740890688259
+1,With IF flags,GradientBoosting,val,0.8483992467043314
+1,With IF flags,GradientBoosting,test,0.9109311740890689
+1,With IF flags,SVM,val,0.8606403013182674
+1,With IF flags,SVM,test,0.9325236167341431
+6,No anomalies,Persistence,val,0.724105461393597
+6,No anomalies,Persistence,test,0.8600989653621233
+6,No anomalies,RandomForest,val,0.8239171374764596
+6,No anomalies,RandomForest,test,0.9239766081871345
+6,No anomalies,GradientBoosting,val,0.8060263653483992
+6,No anomalies,GradientBoosting,test,0.8331084120557805
+6,No anomalies,SVM,val,0.82015065913371
+6,No anomalies,SVM,test,0.926225820962663
+6,With IF flags,Persistence,val,0.724105461393597
+6,With IF flags,Persistence,test,0.8600989653621233
+6,With IF flags,RandomForest,val,0.8248587570621468
+6,With IF flags,RandomForest,test,0.9230769230769231
+6,With IF flags,GradientBoosting,val,0.812617702448211
+6,With IF flags,GradientBoosting,test,0.8290598290598291
+6,With IF flags,SVM,val,0.82015065913371
+6,With IF flags,SVM,test,0.926225820962663
+12,No anomalies,Persistence,val,0.6958568738229756
+12,No anomalies,Persistence,test,0.8645973909131804
+12,No anomalies,RandomForest,val,0.8192090395480226
+12,No anomalies,RandomForest,test,0.926225820962663
+12,No anomalies,GradientBoosting,val,0.7542372881355932
+12,No anomalies,GradientBoosting,test,0.8439046333783176
+12,No anomalies,SVM,val,0.82015065913371
+12,No anomalies,SVM,test,0.926225820962663
+12,With IF flags,Persistence,val,0.6958568738229756
+12,With IF flags,Persistence,test,0.8645973909131804
+12,With IF flags,RandomForest,val,0.8220338983050848
+12,With IF flags,RandomForest,test,0.9208277103013945
+12,With IF flags,GradientBoosting,val,0.7523540489642184
+12,With IF flags,GradientBoosting,test,0.8461538461538461
+12,With IF flags,SVM,val,0.82015065913371
+12,With IF flags,SVM,test,0.926225820962663
+24,No anomalies,Persistence,val,0.7702448210922788
+24,No anomalies,Persistence,test,0.8897885739991003
+24,No anomalies,RandomForest,val,0.8286252354048964
+24,No anomalies,RandomForest,test,0.9239766081871345
+24,No anomalies,GradientBoosting,val,0.7457627118644068
+24,No anomalies,GradientBoosting,test,0.851102114260009
+24,No anomalies,SVM,val,0.8229755178907722
+24,No anomalies,SVM,test,0.926225820962663
+24,With IF flags,Persistence,val,0.7702448210922788
+24,With IF flags,Persistence,test,0.8897885739991003
+24,With IF flags,RandomForest,val,0.8267419962335216
+24,With IF flags,RandomForest,test,0.9226270805218174
+24,With IF flags,GradientBoosting,val,0.736346516007533
+24,With IF flags,GradientBoosting,test,0.8308591992802519
+24,With IF flags,SVM,val,0.8229755178907722
+24,With IF flags,SVM,test,0.926225820962663

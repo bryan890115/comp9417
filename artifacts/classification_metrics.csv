@@ -1,0 +1,9 @@
+variant,model,split,accuracy
+No anomalies,Persistence,test,0.921727395411606
+No anomalies,RandomForest,test,0.9428699955015745
+No anomalies,GradientBoosting,test,0.9298245614035088
+No anomalies,SVM,test,0.9581646423751687
+With IF flags,Persistence,test,0.921727395411606
+With IF flags,RandomForest,test,0.9424201529464687
+With IF flags,GradientBoosting,test,0.9257759784075573
+With IF flags,SVM,test,0.957714799820063
